@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**VDRCCC/VDRCCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#About Me
+Hi there! I'm a Portuguese programmer with a BS in Information Technologies and an MS in Computer Science.
+__________________________________________________________________________________________________________
+##Skills
+ • Currently self-teaching various tools, such as Unreal Engine and Blender.
+ • Skills in videogame development, web design and general programming.
+ • Have learned Python, Java, HTML, CSS, Javascript, PHP, SQL, and C++ by using them for several years.
+ • Knowledgeable in Object-Oriented Programming.
+ • Master's Thesis Project was a Python API for Procedurally Generating Virtual Cities in Blender.
+__________________________________________________________________________________________________________
+##Extra
+Would really like to one day work in the videogames industry! Anything music, games, or tech fascinates me to no end!
